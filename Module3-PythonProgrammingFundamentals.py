@@ -71,4 +71,24 @@ car3.car_info()
 # Q8: From the lab, how would you change the data attribute owner_number ?
 # Utilising the method sell().
 
-# Q9: 
+# Q9: What is the output of the following few lines of code?
+A = ['1','2','3']
+for a in A:
+    print(2*a)
+# '11' '22' '33'
+
+# Q10: Consider the function Delta, when will the function return a value of 1
+
+def Delta(x):
+    if x==0:
+        y=1;
+    else:
+        y=0;
+    return(y)
+# When the input is 0.
+
+# Q11: What is the correct way to sort the list 'B' using a method? The result should not return a new list, just change the list 'B'.
+# B.sort()
+
+# Q12: What are the keys of the following dictionary: {'a':1,'b':2}?
+# a,b
