@@ -16,14 +16,20 @@ B = np.array([[1,2,3],[4,5,6],[7,8,9]])
 # print(np.dot(A,B))
 # No
 
-# Q5:
+# Q5:What is the result of the following lines of code:
+a=np.array([0,1,0,1,0])
+b=np.array([1,0,1,0,1])
+print(a*b)
 
-# Q6:
+# Q6:What is the result of the following lines of code:
+a=np.array([0,1])
+b=np.array([1,0])
+print(np.dot(a,b))
 
-# Q7:
+# Q7: What is the result of the following lines of code:
+a=np.array([1,1,1,1,1])
+print(a+10)
 
-# Q8:
+# Q8: What is the correct code to perform matrix multiplication on the matrix A and B?
+np.dot(A,B)
 
-# Q9:
-
-# Q10:
