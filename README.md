@@ -1,4 +1,4 @@
-📘 Introducción
+#📘 Introducción
 
 Este repositorio contiene los ejercicios y prácticas realizadas durante el curso Python for Data Science (PY0101EN) ofrecido por IBM a través de Cognitive Class. Este curso está diseñado para principiantes y cubre los fundamentos de Python aplicados al análisis de datos y la ciencia de datos.
 
